@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Svpernatvrall sights and apparitions, seen in London, June 30, 1644 interpreted with a mathematicall discovrse of the now imminent conjunction of Iupiter and Mars, 26 July, 1644, the effects which either here or in some neere countries from thence may be expected / by Will. Lilly.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48518</idno><idno type="EEBO-CITATION">11885701</idno>
+  <idno type="VID">50374</idno>
+  <idno type="EEBO-PROQUEST">2240903573</idno>
+  
+            <idno type="STC">Wing L2249</idno>
+            <idno type="STC">ESTC R4177</idno>
+            <idno type="OCLC">11885701</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 228:E4, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Svpernatvrall sights and apparitions, seen in London, June 30, 1644 interpreted with a mathematicall discovrse of the now imminent conjunction of Iupiter and Mars, 26 July, 1644, the effects which either here or in some neere countries from thence may be expected / by Will. Lilly.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.V. and are to be sold by I. S. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50374:1"/>
+            <p>SVPERNATVRALL SIGHTS AND APPARITIONS Seen in <hi>LONDON, June</hi> 30. 1644. interpreted. WITH A MATHEMATICALL DISCOVRSE of the now imminent Conjunction of <hi>Iupiter</hi> and <hi>Mars,</hi> 26 <hi>Iuly,</hi> 1644. the Effects which either here or in some neere Counties from thence may be expected.</p>
+            <p>By <hi>Will. Lilly.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <p>
+                           <hi>Imprimatur</hi>
+                        </p>
+                        <closer>
+                           <signed>JOHN BOOKER.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed for <hi>T. V.</hi> and are to be sold by <hi>I. S.</hi> in <hi>Little Brittaine.</hi> 1644.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50374:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have plainly delivered so much as my eyes observed, at what time those admired apparitions in the ayre amazed the beholders here in London, and when the quarters of Heaven seemed to affront each other with their darting fire-bals, the South against the West, the West against the North, each one against another; its wrote as I observed it; others in some places might see more, I have confer'd with some that in effect saw the same things I did. As they were no usuall sights, so questionlesse no usuall or ordinary actions will succeed. Their transcursions in the ayre from one quarter to another, shewes the generality of what is signified thereby; My discourse of the Conjunction, is to supply what I promised in my Annuall Predi<g ref="char:EOLhyphen"/>ction, but did not then performe: I have omitted some judgements, because I would avoide all exceptions: should I write the whole truth, I might be deemed partiall; I seriously publish to the world, I am a friend to Monarchy; but I hold it my native duty to adhere in purse, pen, and person to the now honourable Parliament at <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> the worthy Members thereof having for our good these three yeares and more spent their private fortunes, and weakned their healths, purposely to reduce our Common-wealth to its right temper; and to free me, thee, and the whole Kingdome from an approaching slavery: As the Lord liveth, should my judgement in point of Art be demanded: Whether it were best for his Majesty to come to his <hi>West<g ref="char:EOLhyphen"/>minster</hi> Parliament yea, or no: My answer should be, it were the only meanes to make himselfe and posterity happy: and this I doe certain<g ref="char:EOLhyphen"/>ly know by the generall fate of this Kingdome, by the severall Con<g ref="char:EOLhyphen"/>junctions and Eclipses past and to come, and by my five yeares hard studie to discerne the event of these times: The world will know hereafter, I speake not in vaine, and blessed shall that man be that gi<g ref="char:EOLhyphen"/>veth his Majestie this advise, and reduceth him to have a right appre<g ref="char:EOLhyphen"/>hension of the actions and good intentions of this Parliament towards him and his. The Conjunction gives me some hopes, but my faith is weake. What is wanting in man, I hope God will supply, and mira<g ref="char:EOLhyphen"/>culously confound those lurking enemies of ours, that were preparing mischiefe against us. Reader, thou shalt suddenly heare of strange alte<g ref="char:EOLhyphen"/>rations, rejoyce and be glad, and pray for his Majesties returne, for so doth</p>
+            <closer>
+               <signed>William Lilly.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:50374:2"/>
+            <head>TO THE Nobles, Knights and Burgesses that have absented themselves from our <hi>Parliament</hi> at <hi>Westminster.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>Od is only able to discerne upon what pretences you separa<g ref="char:EOLhyphen"/>ted from our Parliament at Westminster, and adhered to that meeting of Oxford to the perpetuall infamie of your selves and posterities; of whom I heartily wish you would be mindfull, and that ye would returne hither to <hi>London,</hi> while yet there is mercy and compassion remaining. Be<g ref="char:EOLhyphen"/>leeve me, I see an hideous storme ready to fall upon you; I see the teares of your wives, of your children, of your friends lamenting your lost and for<g ref="char:EOLhyphen"/>lorne Conditions. Let the miserable example of the Marquesse of New<g ref="char:EOLhyphen"/>castle deterre you from further engagement against your deare Countrey which bred you tenderly: and the many Nobles and Gentlemen slayne and undone since this quarrell. I tell you, your severall Counties doe curse you, and sweare you have forfeited your Honours in running from Westminster, to which place they sent you; unto Oxford, to which place they gave you no Commission: When in time to come your children shall see your goodly Mansi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Houses a meere lump of rubbage, and aske whose that stately house had beene, and have answere from the barbarous Clowne; it was my Lords, it was Sir <hi>Thomas:</hi> who drew his sword most unnaturally against the Parliament of England, and therefore his house is pulled downe and his posterity hated? Will not these words and that sad object rent a strong heart in pieces? I pray God you be Wise in time; No flattery, no desire of gaine, no private interest of my owne, hath induced these lines, but my cordi<g ref="char:EOLhyphen"/>all respects to some of you, from whom I have received favours; If I doe know any thing in Art, or if any verity be in Art; for Gods sake remem<g ref="char:EOLhyphen"/>ber that you are invited to come and returne to the Parliament at Westmin<g ref="char:EOLhyphen"/>ster by</p>
+            <closer>
+               <signed>
+                  <hi>Your Friend and Faithfull Servant,<lb/> and well-wisher,</hi>
+                  <lb/> William Lilly.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="4" facs="tcp:50374:3"/>
+            <head>OF Those strange sights or apparitions in the Ayre, seene in <hi>London,</hi> 30. <hi>Iune</hi> last past, 1644. being Sunday, 8.30. <hi>P. M.</hi>
+            </head>
+            <p>
+               <list>
+                  <item>♄. 20 ♈.</item>
+                  <item>♃. 24. 8. ♉.</item>
+                  <item>♂. 10. ♉.</item>
+                  <item>☉. 18. 50. ♋.</item>
+                  <item>♀. 4. ♍.</item>
+                  <item>☿. 2. 34. ♌.</item>
+                  <item>☽. 7. 0. ♎.</item>
+                  <item>☊ 9 ♍.</item>
+                  <item>☽. a x. ☿.</item>
+                  <item>ad ♊ ☉.</item>
+                  <item>&amp; 8 ♄.</item>
+               </list>
+            </p>
+            <p>
+               <seg rend="decorInit">I</seg> Was called into Somerset-yard by some, where we had perfect view of what I deliver: That sight which first presented it selfe to mine eyes, was farre below the Eccleptick according to the observation of mine eye, and seemed to appeare over the South-west part of <hi>Kent,</hi> and the North-east of <hi>Surrey:</hi> the skie was very pale, or somewhat like a duskish tynn colour, not much at some<g ref="char:EOLhyphen"/>times unlike the colour of the Moone at her increase, ever and anon flashes of lightning appearing faintly and in a very long motion, I meane the flashes extended themselves into a great length, but their latitude was not very much, the flashes extended themselves in length just East and West; Many times, or after 7. or 8. severall flashes of lightning, we did sensibly perceive about the middle of the flash, and as it were beyond it, or betwixt it and the fixed slats, a long yellowish apparition of somewhat in forme and shape almost like to a Serpent, incurvating a little at each end, in this fashion <figure>
+                  <figDesc>line with upturned ends</figDesc>
+               </figure>
+            </p>
+            <p>It seemed to be soll<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and firme, for I saw no dissipation or dispersion of parts at any time, it ever shewed it selfe of an equall length, neither greater or smaller, nor did it move from the place where first I beheld
+<pb n="5" facs="tcp:50374:3"/>it more or lesse for one howre together, it still continued indissoluble and visible once in 7. or 8. lightnings: it was under or very near or see<g ref="char:EOLhyphen"/>med so to that constellation we call <hi>Corona meridionalis,</hi> its an Image which consists of 13. Stars, its also called <hi>Ixions wheele,</hi> there are five of the fourth magnitude, six of the firth magnitude, two of the sixt: its re<g ref="char:EOLhyphen"/>presented on the Globe like a Crowne turn'd topsie turvy betwixt the fore-feete of the <hi>Sagittarie,</hi> in the first Decanate of <hi>Capricorne,</hi> and is conceiv'd to be of the nature of ♄ and ♃, the left knee of the <hi>Sagit<g ref="char:EOLhyphen"/>tarie</hi> holding fast one part of the Crowne, and the South end of the Centaures bow an other part, and the tayle of the Scorpion; they who have Globes may be pleased to see those constellations how they stand, and so learne some knowledge of the signification of these ap<g ref="char:EOLhyphen"/>paritions, they have great South latitude from the Ecliptick; there did ascend at the South-west end of the fiery openings or ends of the lightning, certaine appearance of Stars like fire-balls of a propor<g ref="char:EOLhyphen"/>tionable greatnesse, which with great celerity and quick motion as<g ref="char:EOLhyphen"/>cended sometimes directly up towards the Ecliptick and above it, at other times in a more oblique way, they shot their bodies Westward over the Thames, other from the West meeting them. Whilest these fiery ejaculations mounted into the ayre Southward, you must know there was other such like appearances West-ward, with a still quiet and gentle thunder without any affiright as if it thundered at a great distance from <hi>London:</hi> there was in the Westerne quarters all this while plentifull flashings and lightnings, but it was rather above the Eclipticke or seemed so, and still these fiery darts or fiery balls shot upwards towards those Stars that are above the Ecliptique and have north latitude, and I doe well remember I saw them according to the sight of mine eye dart toward the Serpents mouth and <hi>Corona Septen<g ref="char:EOLhyphen"/>trionalis,</hi> this <hi>Corona Septentrionalis,</hi> or <hi>Ariadne corona,</hi> is represented in forme of a Crowne, the mouth of the Serpent gaping wide open at it, but it seemes to be guarded by the speare of <hi>Arctophilax,</hi> which stand upright along by it; it consists of 8. Stars as <hi>Pycho</hi> saith, one of the second magnitude, foure of the fourth magnitude, of the fifth one, of the sixt two, and the head of <hi>Arctophilax,</hi> and then to the 7. Stars, vulgarly called <hi>Charles waines</hi> or <hi>Ʋrsamajor:</hi> as these furious whir<g ref="char:EOLhyphen"/>ling Stars did move towards the North, for so they did, there was still darting and casting this way and that way, upwards and sideway, backward and foreward, and every way, and to all quarters in a nimble
+<pb n="6" facs="tcp:50374:4"/>and violent motion, as if the Stars had been together by the eares; An other thing and most memorable I must acquaint you with, <hi>viz.</hi> that upon the opening of one cloud and flashing of the lightning, there appeared somewhat therein like a Star, which ejaculated his beames like the Sunne, but was in quantity lesse then the Moone and much of her colour, and this appeared divers times in the South, but after a great flash of lightning, either the same appearance or one like it clave in sunder in the middle, and as I conjectured by my ocular observa<g ref="char:EOLhyphen"/>tion fell in othe Thames neare the Horse ferry at <hi>Lambeth.</hi> These un<g ref="char:EOLhyphen"/>usuall aiery sights and forerunners of some mischiefe for most part, old begin Easterly, and then wheeled towards the South, then West<g ref="char:EOLhyphen"/>ward and ended in the North, about a 11. of the clock the same night, yet some say it lasted all the whole night, and seemed to passe remote somewhat and at a distance from <hi>London,</hi> and to wander over the mid<g ref="char:EOLhyphen"/>land Counties of this Kingdome, I meane according to the observa<g ref="char:EOLhyphen"/>tion of the eye without any instrument. Whether <hi>Iupiter</hi> his being with the Pleiades that same day in longitude, of which influence God himselfe maketh mention, did assist in this great disturbance of the hea<g ref="char:EOLhyphen"/>venly regions, or whether the Sun being that day in conjunction with <hi>Hercules,</hi> and <hi>Mercury</hi> with <hi>Praesepe,</hi> and the <hi>Aselli</hi> North and South all impetuous and violent Stars, were the naturall causes of these monstrous apparations, I cannot decide; but in Astrology I say we can give no other account: Or whether those Angels we call Acriall, which have their habitations in the lower regions of the aire had directions from the superiour Intelligences to give us warning of some imminent danger in that language we best understand: or whether the tutelary Angell of the <hi>English</hi> Common-wealth was willing to communicate comfort unto us, if we could apprehend it, by telling us the storme should be driven Northwards, as indeed it fell out, by that memorable and miraculou <hi>Rupertine</hi> defeate, 2. <hi>Iulij</hi> following: Whether any of these were the authors and naturall instruments I cannot determine, I conceive it the finger of God, or some extra<g ref="char:EOLhyphen"/>vagant excursion of nature; these unperfect mixt things ingendred in the aire seldome chancing without cause of admiration in our infe<g ref="char:EOLhyphen"/>riour Orbe and Common-wealth, as all conversant in Histories doe well know: in short, I tell my Countrey what I conceive is in part meant and intended hereby, craving a favourable construction of the learned, of the Sectary nothing but ill language, of the ignorant a meere misconstruction.</p>
+            <div type="part">
+               <pb n="7" facs="tcp:50374:4"/>
+               <head>The Authours judgement.</head>
+               <p>VPon a suddaine and unexpected accident, the dissipation and dis<g ref="char:EOLhyphen"/>solving of some misterious close consultation and mischievous plot against our State and Common-wealth is portended; the disu<g ref="char:EOLhyphen"/>nion and disagreement of the Projectors amongst themselves, and all this in<note n="*" place="margin">
+                     <hi>Merline</hi> is al<g ref="char:EOLhyphen"/>most inclined to beleeve some that wore a Crown were dying at time of this strange sight: or in some jeo<g ref="char:EOLhyphen"/>pardy of loo<g ref="char:EOLhyphen"/>sing their Scepter. A wise people incli<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing to great indiscre<g ref="char:EOLhyphen"/>tion if not their undoing,</note> forraigne parts as well as in <hi>England:</hi> A renting in peeces or mutinous disturbance of some Monarchy neare hand, or some <hi>Au<g ref="char:EOLhyphen"/>strian</hi> family or Principality, <hi>&amp;c.</hi> A commotion of the meaner sort of people against some principall man, or Magistracy: Losse to <hi>Spaine;</hi> That we <hi>English</hi> with our Armies shall travers all the in-land Coun<g ref="char:EOLhyphen"/>tries of this Kingdome, <hi>&amp;c.</hi> This is all I either can or dare say.</p>
+               <closer>
+                  <signed>M. L.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Parliaments victory in the North, which began <hi>6.30. P.M. 2.</hi> Iuly, <hi>1644.</hi> the Elevation of the Pole being <hi>54.40. P.</hi> the Ascendant at the beginning of the Fight being the <hi>25.</hi> ♐</head>
+               <p>GOD only gave the victory; but let me see by what naturall causes he is pleased to manifest his will unto us; it will not be unplea<g ref="char:EOLhyphen"/>sant to the studious in Astrology, if I dilate a little: Thou must know at the beginning of our Parliament <hi>Iupiter</hi> and <hi>Mars</hi> were the signi<g ref="char:EOLhyphen"/>ficators of the Honourable Members of each House, because <hi>Pisces</hi> as<g ref="char:EOLhyphen"/>cended at its beginning, and <hi>Mars</hi> was in <hi>Pisces</hi> in the ascendant. At the beginning of this sight you may see 25. ♐ to ascend, the almost degree of the ascendant of the conjunction of <hi>Saturne</hi> and <hi>Iupiter,</hi> 1641/3. we had for some time the worst, because neither <hi>Mars</hi> or <hi>Iupi<g ref="char:EOLhyphen"/>ter</hi> beheld the ascendant, but when ♑ ascended and <hi>Mars</hi> the Lord of the ascendant of this yeare came to behold the ascendant with a trine, we began to have the better, but not totally, untill the 24 of ♑ ascen<g ref="char:EOLhyphen"/>ded, which was about 26 minutes past eight: a good signe of victory, at what time <hi>Iupiter</hi> aspected the degrees ascending with tryne was to have the ascendant of the yeare culminating: and <hi>Mercury</hi> Lord of the seventh ℟ and the Sun in the twelfth from <hi>Leo:</hi> as also the Moone being disposer of the Sun in the Mediety discending: Yet I am confident our losse was more then we know of, because <hi>Saturne</hi> is Lord of the second, and ☋ is there also, but I conceive it was especially in mo<g ref="char:EOLhyphen"/>reables as I have read in some relator or other: I could inlarge.</p>
+               <pb n="8" facs="tcp:50374:5"/>
+               <p>
+                  <figure>
+                     <figDesc>astrological chart</figDesc>
+                     <p>A Conjunction of <hi>Iu<g ref="char:EOLhyphen"/>piter</hi> &amp; <hi>Mars</hi> the 26. <hi>Iuly,</hi>
+                        <note place="margin">L<gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ulo Iovis <gap reason="illegible: faint" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>. M. D. Mar<gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>s <hi>1.6.</hi> M. D.</note> 1644. 13.42. <hi>P. m.</hi> for the Meridian of <hi>London.</hi>
+                     </p>
+                     <p>
+                        <list>
+                           <item>
+                              <hi>ad</hi> x ☿</item>
+                           <item>
+                              <hi>ad</hi> ☌ ♀</item>
+                        </list>
+                     </p>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <head>Pugna inter aulicos, discordia inter nobiles.</head>
+               <p>THis Conjunction is the weakest and least of those which chance betwixt the three superior planets, <hi>viz. Saturne, Jupiter,</hi> and <hi>Mars;</hi> and is therefore most ignorantly by some vulgar Astrologers termed a great Conjunction; it will have more then ordinary signification at this time, by reason its the first Conjunction of these two planets since that of <hi>Saturne</hi> and <hi>Jupiter</hi> 1642/3. as also because here is almost in every Country fit matter already stirred up for the influence to worke upon. I omit all ambiguous words, or such expressions as may onely cloud the sense of the Conjunction, but not explain it, and our common Astro<g ref="char:EOLhyphen"/>logicall termes in Art, and will indeavour to give my Countrey-men of <hi>England</hi> that are plaine men, downe right dealing men, the true sense of this heavenly position, which in effect speakes thus much: That, high and mighty actions, deliberate Councels, various intend<g ref="char:EOLhyphen"/>ments,
+<pb n="9" facs="tcp:50374:5"/>are at present in Consultation, and hereafter more to be as well in <hi>England</hi> as beyond the Sea; this hath very great signification of the estates, affaires, fortunes, Kingdomes, Subjects of Kings and Princes; this foreshews what the Nobility and Gentry shall trust unto, <hi>viz.</hi> losse of life and fortunes: and the Clergic both at home in <hi>England,</hi> and beyond Seas find most true, <hi>viz.</hi> great division both in their private and publike affaires: this intimates very many treaties with excellent words in severall places of <hi>Europe;</hi> and yet in the meane time men leavying, Armes providing, money borrowing, Legerdemaine under hand, friends corrupted, and all these provisions to be ready in <hi>September</hi> or <hi>October</hi> if things hit right, else a longer time must be re<g ref="char:EOLhyphen"/>quired. I find a most treacherous plot is cunningly hatching and co<g ref="char:EOLhyphen"/>vertly managed against <hi>England,</hi> and some other Christian Common<g ref="char:EOLhyphen"/>wealths, and that the Europeian Monarches doe generally intend in their severall territories a Parley, what course every one may take for his own and Allies safeguard, all begin to be afraid. Work enough at home, I say. The Souldier, the Gentleman, and some Nobles are all to Consult and meet in Councell, they unanimously seeme to de<g ref="char:EOLhyphen"/>sire peace and to be at Unity; but a secret cunning hand, a device they dreame not of, impedites all their consultations, and craftily over-rules their consults, so that at one time they loose their labours, &amp; immediately after their lands, &amp;c. the just reward of those who desert their Countrey. Our Courtiers in <hi>England</hi> are like to goe together by the eates amongst themselves. Oh the unexpected treason, treachery, and unlucky failings that this figure portends to the Kings of Europe, and what infinite sufferers they shall be by meanes of the policies and underhand subtilties of their bosome favourites, who no sooner receive a secret from their Masters lips, but as speedily convay the sense of that secret to their Masters enemies. <hi>Et hoc est certissimum.</hi>
+               </p>
+               <p>The Dragons taile so neere the degree culminating, and <hi>Iupiter</hi> so poore in essentiall fortitudes, so miserably afflicted by <hi>Mars, Saturne</hi> being Retrograde in his fall, and in that house representing their Friends, Correspondents, Allies, and Assistants, Counsels, Consulta<g ref="char:EOLhyphen"/>tions, &amp;c. this onely, were there no more, might terrifie Kings, and affright Princes and great ones: for it plainly tels them, they shall find nothing but falsenesse, backsliding, delayes, politique ends, disco<g ref="char:EOLhyphen"/>very of their secrets, in those kindes of men before named, and on whom they shall so much relye: Could I but remove <hi>Saturne</hi> out of
+<pb n="10" facs="tcp:50374:6"/>the eleventh house in this figure, or if <hi>Mercury</hi> could have been more elongated from the Dragons tayle in the worlds figure; peace would instantly follow in <hi>England,</hi> and quietnesse in all or most Kingdomes of Europe. But <hi>Saturne</hi> is a salow and melancholly mischievous Pla<g ref="char:EOLhyphen"/>net, and <hi>Mercury</hi> is slie and wary, politique and perjurious: so that long it will be ere Princes be wise and discerning, and sift out the trea<g ref="char:EOLhyphen"/>sons and knaveries of these their old Saturnine Counsellours and nim<g ref="char:EOLhyphen"/>ble witted Secretaries, &amp;c. both whose counsels are equally pernicious. The Moone and <hi>Mercury</hi> are in reception, <hi>Luna</hi> is <hi>populus, viz.</hi> the people, under that notion I comprehend those that take part with them, nay, they, <hi>viz.</hi> our principall members sitting in Parliament sig<g ref="char:EOLhyphen"/>nified in this figure by the Moone, <hi>Mercury, Venus,</hi> &amp;c. begin to fore<g ref="char:EOLhyphen"/>see much, perhaps some grand devise, it troubles them not; the Moone applies to <hi>Mercurie,</hi> as if nothing should be acted without more then ordinary care and advice: <hi>Mercury</hi> carries the light to <hi>Iupiter,</hi> and the same day <hi>Iupiter</hi> and <hi>Venus</hi> are in a friendly Tryne, a wonderfull good aspect if God give his blessing; a Missive really and religiously penned, and gravely consulted on is sent by <hi>Venus,</hi> who transferres it to <hi>Iupiter,</hi> and he is Lord of the Royall house, and <hi>Venus</hi> is Lady of the fift: <hi>viz</hi> of Messengers and Embassadours. But alas <hi>Iupiter</hi> is almost out of <hi>Taurus</hi> and now in the termes of the infortunes, that is in the clutches of such as will undo him; if two degrees give two months, what will some body doe in <hi>September</hi> or <hi>October!</hi> Immediately after this Conjunction, it is intimated, our State hath frequent meetings, for some good designe or other, the aspects shew very many consulta<g ref="char:EOLhyphen"/>tions, and many debates and a longing desire to accommodation, some interruption I feare, and I am certaine we shall find, because the Sun is now <hi>in Leone,</hi> a proud stately and wilfull signe, and <hi>Iupiter</hi> he is in a fixed signe, <hi>Mars</hi> corrupting <hi>Iupiters</hi> iudgement, perhaps too much standing on termes (the wicked advice of <hi>Saturne</hi> interposing, and the obstinate wilfulnesse of some State Courtiers coadjuting) may pre<g ref="char:EOLhyphen"/>judice our best of expectations and frustrate the hopes of a blessed peace. However its opportune for our unwearied honourable Members of both Houses to treat all <hi>August</hi> and till the latter end of <hi>September,</hi> the face of Heaven being faire, amicable and promising them much honour thereby, &amp;c. I well fore-see if we in <hi>England</hi> treat, they in <hi>Polonia</hi> and <hi>Swethland,</hi> and especially in <hi>Ireland,</hi> will be wondrous busie in their Councels, each of these Nations is hammering upon some great
+<pb n="11" facs="tcp:50374:6"/>designe, for any thing I see, when <hi>Iupiter</hi> is translated out of <hi>Taurus,</hi> the Irish may stand upon their own Guards. Its in agitation what part of <hi>Germany</hi> to enter or fall on by some in the world. May not some he<g ref="char:EOLhyphen"/>stile enemy approach <hi>Bavaria,</hi> or some slaughter be in <hi>Catalonia,</hi> or some irruption into <hi>Norway.</hi> What will ye say if the mountanous <hi>Ca<g ref="char:EOLhyphen"/>labrian</hi> rise and disturbe? Will it not be newes, if during the Effects of this Conjunction, or the latter end of <hi>September</hi> or in <hi>October</hi> the French Nation receive a brush: and <hi>Denmark</hi> a remarkable disaster, and the Imperials small comfort, if a pitcht field be fought. Many Townes, Castles and Forts doe immediately after this Conjunction surrender by treaty to our States of <hi>England;</hi> some towns in the North, and some in the West, others Southwest parts of <hi>England: O Reges, &amp; vos Principes,</hi> Excellent Kings and Princes <hi>(totius Europae)</hi> of all Europe, reject the advise of <hi>Saturne,</hi> and let not <hi>Mercury</hi> have the Priviledge to write your letters, and then you may expect a blessing in your Common-wealths: <hi>Iohn</hi> thou honourable King of <hi>Portingall,</hi> suf<g ref="char:EOLhyphen"/>fer not <hi>Saturne</hi> to be a Counsell our with thee; untill he is admitted, I conceive, thou shalt flourish: But if I tell not the world who <hi>Saturne</hi> is, I say nothing; he is in transmarine parts a <hi>Iesuite,</hi> or <hi>Iew:</hi> in <hi>England</hi> a <hi>Iesuite</hi> or <hi>Sectarist:</hi> there's <hi>Mors in Olla</hi> where the Jesuite or Jesui<g ref="char:EOLhyphen"/>ted Counsellors advise; or where they come in the privates of Princes: and as for <hi>Mercury</hi> who represents Kings Secretaries, find me one in Europe, who hath not a J suite either attending in houshold, or assi<g ref="char:EOLhyphen"/>sting in Counsell; if the Quadrature of <hi>Saturne</hi> and <hi>Mercury</hi> out of two Cardinall signes, make not my conjecture and prediction good, let a Novice in Astrologie whip me, &amp;c.— We <hi>English</hi> pay deare for their late and also now residence in <hi>England,</hi> so have many Princes of Europe; so shall <hi>France,</hi> and so in time the provident <hi>Hol<g ref="char:EOLhyphen"/>lander</hi> shall lament that serpentine generation, if not heedfully preven<g ref="char:EOLhyphen"/>ted; so should the Pope that now is, if he had not as much Art as wit.</p>
+               <p>
+                  <hi>Jove</hi> is peregrine out of all essentiall dignities, and <hi>Mars</hi> the soul<g ref="char:EOLhyphen"/>dier insults over the decaying Nobility and Gentry: the Clergy and Episcopall may go to wrack, nor doth the Lawyer thrive, or doth lear<g ref="char:EOLhyphen"/>ning advance: the Conjunction is averse to all these mens qualities, &amp;c.</p>
+               <p>That which I meane of the Jesuite, I also intend the same judge<g ref="char:EOLhyphen"/>ment of the right <hi>Sectarist,</hi> the firebrand and incendiary of the Prote<g ref="char:EOLhyphen"/>stant Religion; it may be doubted whether Jesuite or <hi>Sectarist</hi> is more knave and most destructive to any Common-wealth they inhabite.</p>
+               <pb n="12" facs="tcp:50374:7"/>
+               <p>
+                  <hi>August</hi> the 21. the Sun suffereth Eclipse, the figure whereof follow<g ref="char:EOLhyphen"/>eth inserted, because it hath great relation to this present Conjunction.</p>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <p>Eclipse of the Sun 21. <hi>August,</hi> 1644. ☿ 17. <hi>P. M.</hi>
+                  </p>
+                  <p>
+                     <list>
+                        <item>
+                           <hi>à</hi> ☌ ☉</item>
+                        <item>
+                           <hi>ad</hi> ♊ ♂</item>
+                     </list>
+                  </p>
+               </figure>
+               <p>The very degree of the fourth house in the Conjunctionall figure is the place eclipsed and very neer the now degree ascending. If any great person now in action and busie have the 6. 8. 9. or 10. of <hi>Virgo</hi> ascending in their Nativities, let him, her, or them either make his, her, or their last will and testament, or commit their honour, if they are of that qua<g ref="char:EOLhyphen"/>lity, to dust; or their persons to an honest strong Castle commonly cal<g ref="char:EOLhyphen"/>led a prison. The Mid heaven of this Eclipticall Scheame is the very degree of this present Conjunction of <hi>Iupiter</hi> and <hi>Mars. Admiranda pronuncio eventura Angliae &amp; aliquibus Regionibus per hanc conjunctionis &amp; Eclipsis Harmoniam:</hi> Verily I may pronounce some wonderfull things to happen to <hi>England,</hi> and some other Regions by the harmony of this Conjunction with the Eclipse. And although I am not ignorant
+<pb n="13" facs="tcp:50374:7"/>of that in <hi>Ptolomey,</hi> viz. <hi>Nihil nocent Eclipses in ist is regionibus in quibus non videntur. viz.</hi> Eclipses hurt nothing at all those regions, wherein they are not visible: Yet cannot I consent unto him, or allow that his judgement for true, either in particular mens Nativities, or in the generall accidents of the world; having found the contrary in my practise and experience: For as in every Eclips either <hi>Solar</hi> or <hi>Lu<g ref="char:EOLhyphen"/>nar,</hi> there is privation of light more or lesse, so doubtlesse (if Eclip<g ref="char:EOLhyphen"/>ses work any thing, which all or most of the Learned confesse they doe) there can be no Eclips whether <hi>subterranean</hi> or <hi>supraterranean,</hi> but it shall operate more or lesse, more violently and conspicuously if it be above the earth, with lesse stirre and more obscurely if it be not visible, I meane upon those Countries subject to the signe and quarter of Heaven afflicted: At the time of this Eclips <hi>Mercury</hi> disposeth the two Luminaries: <hi>Celeres motus significat; &amp; in humanis negotijs celeritatem, industriam &amp; caliditatem ad ea quae agendasunt: sed cum propè solum volvatur, ventos ciet inordinatos, tonitrua, fulmina, hiatus, terrae motus &amp; fulgura:</hi> In this Eclips <hi>Mercury</hi> praenotes suddaine motions, celerity, painefulnesse, craft, policy and subtilty in agitating humane affaires, and managing mens actions; let us in <hi>England</hi> be<g ref="char:EOLhyphen"/>ware of shuffling and jugling, of packing and crafty slye pretences, for <hi>Mercury</hi> tells us all this; but being neare the Sun beames, and so to combustion, he stirs up suddaine winds, thunders, lightning, opening of the earth in many places, earth-quakes (this you must understand in Countries usually subject to earth-quakes) fire breaking out of the Cloudes: My private fancy or judgement is, because <hi>Mercury</hi> be<g ref="char:EOLhyphen"/>ing Lord of the Ascendant and partly of the tenth house, and he is combust and afflicted by the Sunne Lord of the twelfth house, it doth premonstrate the Captivity of some King, Prince or Commander or Commanders in chiefe of Armies, Cities, Townes and Castles, or of some eminent person and persons: The day of the Eclips shall no sooner come but the effects of this Eclips shall immediately shew themselves, because it is in the ascendant and in conjunction of the nimble <hi>Mercury,</hi> who is exceeding swift in his motion, and will inforce the actions depending of the Eclips and conjunction to ope<g ref="char:EOLhyphen"/>rate like a furious whirle wind: so that it may seeme, there will be fre<g ref="char:EOLhyphen"/>quent Messages, multiplicity of negotiations, plentifull emission of di<g ref="char:EOLhyphen"/>rectory Letters to this Country, to that City, to this State, to this King, to this Embassadour, that Agent, all this <hi>Europeian</hi> part of the world
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:50374:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:50374:8"/>
+                  <pb n="14" facs="tcp:50374:9"/>in consultation what to doe: No State of <hi>Europe</hi> without se are, ter<g ref="char:EOLhyphen"/>rour and mistrust; doubtfull which way to steere a course, or with what Prince or Nation to make league, all in suspence where the cloud of these impending misfortunes shall fall; its good to be wise, and he is very prudent and foreseeing that can defend his own territory either from internall insurrection or exterior invasion, especially now and un<g ref="char:EOLhyphen"/>till 1647. Nor doe I see any reason to adheare to <hi>Ptolomey,</hi> who will have those places especially passive which are under the same trygon or triplicity wherein the Eclips falleth, as for example, because this Eclips is in ♑ an earthly signe, some would say, <hi>Paris</hi> in <hi>France</hi> must begin the dance, and therefore all those that have either ♑ or ♉ as<g ref="char:EOLhyphen"/>cending in their Natives must su fer by the effects of this Eclips, for this his division of the effects by severall quadrants upon severall Countries <hi>Campanella</hi> justly finds fault: I should rather conceive that those Countryes and men subject and borne under ♓ being the opposite signe to the signe of the Eclips; and those in quadrate, <hi>viz. Sagittarius</hi> and <hi>Gemini</hi> shall have principall share in the effects good of ill of this solar Eclips; what Countryes those are, you may reade in every common Almanack. This Eclips tells our Parliament that they shall get into their custody and possession many of their prin<g ref="char:EOLhyphen"/>cipall enemies, but they must then take care to keepe them: doth not <hi>Mercury</hi> dispose both of the Sun and Moone, and is not he in his own house with the Dragons head; I like not <hi>Saturne</hi> in the ninth house, will some novell disputes or sectaries arise in Religion, or will some untrusty Agents shew us good horsemanship, and so disturbe our Parliamentary Patriots: But now againe I returne to the pursuite of the Conjunctionall influence, from which I have casually but not improperly deviated, for I well know the two Luminaries either put forward or retard any of these Conjunctions, for God placed them for lights, that is to give us understanding especially in heavenly judge<g ref="char:EOLhyphen"/>ments by their scite, place and being: Some, and they no small Clerkes averre, with whom I freely joyne issue; <hi>Conjunctio Iovis &amp; Martis in Tauro, destructionem Civitatum, mortem quorundam magnatum, pluvias mulias, corruscationes &amp; tonitrua signisicat; viz.</hi> the meeting of <hi>Iu<g ref="char:EOLhyphen"/>piter</hi> and <hi>Mars</hi> in <hi>Taurus,</hi> foretells the destruction of some Cities and Townes, the death of certaine Noble-men, much raine the season of the yeare considered, lightning and thunder: <hi>Albumaz. diff.</hi> 2. <hi>libri</hi> 3. <hi>de Conjunct.</hi> tells us, <hi>Quando Mars Iovi conjungitur, significat illud,
+<pb n="15" facs="tcp:50374:9"/>quod homines nimium exercebune exercitus &amp; bella, &amp; multitudinom insurgentium &amp; malum, &amp; multitudinem causarum &amp; advensum bubonum in quibusdam Climatibus, &amp; caristiam quarundam bestiarum, &amp; mortem regis in illa revolutione.</hi>
+               </p>
+               <p>When <hi>Mars</hi> is in conjunction with <hi>Iupiter,</hi> he hath this very signi<g ref="char:EOLhyphen"/>fication, that men shall too much set their hearts upon wars, there shall be many insurrections, aboundance of complaints, causes and Law<g ref="char:EOLhyphen"/>suites, an appearance of many Froggs and Toades in some Regions, scarcity of some manner of Cattle, it must be here of great beasts, be<g ref="char:EOLhyphen"/>cause <hi>Iupiter</hi> is Lord of the sixt house and is afflicted by <hi>Mars,</hi> and they are both superiour Planets, also some dangerous diseases amongst them, and in conclusion death is portended to some King ere <hi>Iupiter</hi> and <hi>Mars</hi> finish their Revolution, which will be 3. <hi>Novemb.</hi> 1646 But me thinks I heare in the Heavens a muttering as if some barbarous Souldiers should be intended from the South-east to come and afflict us; were it not good to have an eye to that part of Heaven; Its rather feared, then hoped it will be so.</p>
+               <p>But sith the Conjunction is almost in <hi>Gemine, erit nimia mors in ho<g ref="char:EOLhyphen"/>nunibus,</hi> there will be too great a destruction of man-kind ere this Re<g ref="char:EOLhyphen"/>volution be compleated: I find one consideration very remarkeable, <hi>viz.</hi> the three superiour Planets all above the earth, Orientall, all of them by positure in the eleventh house; I shall tell you in respect of essentiall dignities they are very weake and imbecill, and of no great fortitude, they in that represent a vast company of workmen but no materials to goe forward with the building, they tell us of the decli<g ref="char:EOLhyphen"/>ning estate of the supreame Viceroye of men, the uncertainty of the fortunes and lives of Kings, Princes, Queenes and Nobles: If it be well considered, that the Moone is Lady of the ascendant, and partly dispo<g ref="char:EOLhyphen"/>sitrix of the Conjunction it selfe, it directeth us excellently for sin<g ref="char:EOLhyphen"/>ding out the intention of the Scheame: Now if the mediety ascen<g ref="char:EOLhyphen"/>ding according to <hi>Haly</hi> and <hi>Guido</hi> be the representative quarters of Heaven for our State, as most certaine it is, the figure being exactly corrected for the Meridian of <hi>London,</hi> and all the Planets in their se<g ref="char:EOLhyphen"/>verall motions fitted thereunto; then I say, it absolutely expresseth, a great and notorious defection of many Noble-men, Gentlemen, men, Countryes and Townes from his Majesty, and a further deserting of him of some men of greater quality, then was evident in the <hi>figura mundi hujus anni.</hi> It doth portend our Parliament should meet with
+<pb n="16" facs="tcp:50374:10"/>some good store of rich treasure, or acquisition of some moneyes they expected not, some Countries and Townes, Castles, <hi>&amp;c.</hi> It shewes corruption in some principall Earle, or Baron, or Generall, or Camp Officer, it shewes failings in the <hi>Irish</hi> and <hi>Welch,</hi> impoverishment, or mutinies either in <hi>Paris</hi> or some Countries in <hi>France,</hi> and some Easterne Countries from us, it shewes much unwillingnesse in many of his Majesties friends to doe him further service; and that in the Courtiers consultations there is no agreement, no assurednesse; it tels his Majesty there's treason where he least suspects it: some great per<g ref="char:EOLhyphen"/>sons must suffer by death, either by beheading or otherwises of some Embassadours signified by <hi>Mars</hi> Lord partly of the fifth that shall addresse themselves to his Majesty in <hi>August</hi> upon the tryne of <hi>Venus</hi> and <hi>Iupiter,</hi> if not the latter end of this <hi>Iuly</hi> Moneth.</p>
+               <p>It tells our State they shall have the profered friendship of many men: a black or a red mans friendship they may suspect; let them trust according to knowledge: its laboured to corrupt some of their Officers. In regard <hi>Iupiter</hi> is Lord of the sixt house and in affliction of <hi>Mars,</hi> it may denote suddaine violent Fevers proceeding from blood overheated, griefes and consumption of the lungs more then usually, but not any Epidemicall disease, the Plague or the like, perhaps the French pox will be active in <hi>October.</hi>
+               </p>
+               <p>During the Retrogradation of <hi>Iupiter</hi> and his being in the latter de<g ref="char:EOLhyphen"/>grees of <hi>Taurus</hi> which will be from the second weeke in <hi>September</hi> untill. 24. <hi>March</hi> next, it will goe hard with the Nobility, Gentry, Clergy, Lawyers and Phisitians, I doubt this Scheame points out one principall Phisitian for a strong enemy of the Parliaments. The 7. <hi>No<g ref="char:EOLhyphen"/>vember</hi> next the Sun and <hi>Iupiter</hi> in 26. ♉ and 26. <hi>Mercury</hi> come to op<g ref="char:EOLhyphen"/>position, it will question some great person. The 11. of <hi>December,</hi> 1645. <hi>Iupiter</hi> and <hi>Sol</hi> come to opposition, and the 18. of the same <hi>Iupi<g ref="char:EOLhyphen"/>ter</hi> and <hi>Mars</hi> in the last degrees of ♊ and ♐. The 16. of <hi>April,</hi> 1646. <hi>Mars</hi> and <hi>Iupiter</hi> come to a square, <hi>Iupiter</hi> in the first of <hi>Cancer, Mars</hi> in the first of <hi>Aries;</hi> off goes some bodies head, if such professions be then in practises. The third of <hi>Novemb.</hi> 1646. <hi>Iupiter</hi> and <hi>Mars</hi> meet againe in the eighth of ♌ a violent but Kingly signe that conjunction may produce some more able pen, mine at the present being dulled.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
